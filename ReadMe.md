@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre mim:
 🧑‍💻 Atualmente estou trabalhando em: Projetos pessoais para aprimorar minhas habilidades em desenvolvimento fullstack.<br>🤝 Estou procurando colaborar em: Projetos de desenvolvimento web usando JavaScript, HTML, CSS e frameworks como React e Node.js.<br>📚 Atualmente estou aprendendo: Desenvolvimento fullstack com frameworks e ferramentas modernas de JavaScript.<br>💬 Me pergunte sobre: Desenvolvimento web, criação de interfaces responsivas e construção de APIs eficientes.<br>🌟 Objetivo atual: Construir um portfólio sólido para atuar profissionalmente como desenvolvedor fullstack.
 
 
